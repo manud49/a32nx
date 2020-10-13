@@ -55,6 +55,7 @@
 1. [TEXTURES] Changed Overhead Panel Texture (Decals, color, detail) - @Pleasure0102 (Pleasure)
 1. [LIVERY] Bundle the FlyByWire Livery with the A32NX addon - @devsnek (devsnek)
 1. [ECAM] Added cockpit door video - @Benjozork (Benjamin Dupont)
+1. [Sounds] Added Leap 1A engine sounds for idle through TOGA - @hotshotp (Boris)
 
 ## 2020/09
 1. [General] Add CHANGELOG.md - @nathaninnes (Nathan Innes)
